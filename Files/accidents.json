@@ -1,0 +1,902 @@
+[
+    {
+        "accident_id": "8d119459-5e7b-43c1-a749-c2e83d18e112",
+        "date_time": "2021-03-16T04:23:39.192261",
+        "location": "34711 Cynthia Brooks Apt. 637\nGregorymouth, AZ 31630",
+        "description": "Ability kitchen special all today land.",
+        "severity": "moderate",
+        "involved_vehicles": 1,
+        "injuries": 7
+    },
+    {
+        "accident_id": "9d4b433f-58ae-4fed-a53c-07f906cae2e6",
+        "date_time": "2024-03-02T04:53:57.431153",
+        "location": "619 Vazquez Parkway Suite 752\nMarkberg, RI 28107",
+        "description": "Together shoulder true.",
+        "severity": "minor",
+        "involved_vehicles": 5,
+        "injuries": 5
+    },
+    {
+        "accident_id": "4c5b3e3a-19b7-4801-9806-a90a40d40c88",
+        "date_time": "2020-09-02T20:16:59.024798",
+        "location": "527 Reed Flat Suite 967\nRyanton, IL 83685",
+        "description": "Conference professor prevent high.",
+        "severity": "moderate",
+        "involved_vehicles": 3,
+        "injuries": 3
+    },
+    {
+        "accident_id": "938d2374-e91a-42e7-9542-12fd52ef430b",
+        "date_time": "2020-07-07T23:09:11.991825",
+        "location": "9486 Jennifer Inlet Apt. 960\nChaneychester, MN 82456",
+        "description": "Outside strong goal likely say investment foreign form.",
+        "severity": "severe",
+        "involved_vehicles": 3,
+        "injuries": 8
+    },
+    {
+        "accident_id": "4001716e-8183-4edd-9d4b-0fab00981faf",
+        "date_time": "2022-06-15T21:26:29.121085",
+        "location": "3526 Thomas Radial\nCindyside, WV 27904",
+        "description": "Free south thought reduce product.",
+        "severity": "moderate",
+        "involved_vehicles": 5,
+        "injuries": 8
+    },
+    {
+        "accident_id": "b684354a-881d-4c67-9f5d-2ad60fe04493",
+        "date_time": "2024-01-23T14:42:19.323024",
+        "location": "3162 Jonathan Forge Apt. 643\nMarctown, MH 90312",
+        "description": "Pm remember possible.",
+        "severity": "severe",
+        "involved_vehicles": 5,
+        "injuries": 9
+    },
+    {
+        "accident_id": "fe9e06b1-4c7a-4c42-b7e9-0297448cdb0d",
+        "date_time": "2022-12-25T08:03:18.192668",
+        "location": "648 Rodriguez Greens\nTashafurt, MP 32897",
+        "description": "Mind strategy chance his appear couple.",
+        "severity": "moderate",
+        "involved_vehicles": 4,
+        "injuries": 7
+    },
+    {
+        "accident_id": "1b1484a1-405c-49b9-875c-abbd61ef3792",
+        "date_time": "2024-04-19T13:55:35.353131",
+        "location": "USNS Perkins\nFPO AA 32665",
+        "description": "Like agent sign star factor discover.",
+        "severity": "minor",
+        "involved_vehicles": 3,
+        "injuries": 7
+    },
+    {
+        "accident_id": "b8cf097c-c568-4840-a8c0-2aa7a7d13f13",
+        "date_time": "2024-04-02T04:03:50.057944",
+        "location": "3787 Cathy Creek\nNorth Scott, WI 67317",
+        "description": "Base situation community half.",
+        "severity": "minor",
+        "involved_vehicles": 3,
+        "injuries": 3
+    },
+    {
+        "accident_id": "1db2e894-48ac-4694-afe3-098d52bf4a77",
+        "date_time": "2024-04-25T05:23:48.135535",
+        "location": "3615 Munoz Brooks\nTammyview, IA 51012",
+        "description": "Director and miss concern shoulder.",
+        "severity": "minor",
+        "involved_vehicles": 2,
+        "injuries": 5
+    },
+    {
+        "accident_id": "b24baa37-22c0-4206-a180-acbe5e41cfeb",
+        "date_time": "2021-02-20T15:05:59.535323",
+        "location": "79865 Robert Keys Apt. 483\nKevinview, AL 00618",
+        "description": "Our today almost.",
+        "severity": "minor",
+        "involved_vehicles": 3,
+        "injuries": 0
+    },
+    {
+        "accident_id": "ec6fa1f8-cb7b-4bcd-804b-48d9fb27567a",
+        "date_time": "2020-02-10T09:28:16.254383",
+        "location": "56815 Mcneil Extensions Suite 880\nEast Lisa, NE 26109",
+        "description": "Question left third line law particularly must.",
+        "severity": "minor",
+        "involved_vehicles": 1,
+        "injuries": 9
+    },
+    {
+        "accident_id": "4561cd38-88b8-463d-835f-9e9c9444f9ed",
+        "date_time": "2020-09-29T03:05:00.444702",
+        "location": "6783 Elizabeth Turnpike Suite 736\nEast Calebfurt, PA 70632",
+        "description": "Himself what one onto why already national.",
+        "severity": "minor",
+        "involved_vehicles": 3,
+        "injuries": 0
+    },
+    {
+        "accident_id": "ca45bc45-b074-4ba5-bc0b-42b0b4a21ea4",
+        "date_time": "2020-11-19T15:02:00.805759",
+        "location": "425 Dana Glens Apt. 535\nNorth Heather, GA 55732",
+        "description": "Movie age action.",
+        "severity": "minor",
+        "involved_vehicles": 3,
+        "injuries": 5
+    },
+    {
+        "accident_id": "82552004-bbba-48fa-a15d-c94d0d9a3a3f",
+        "date_time": "2021-04-05T00:27:17.491661",
+        "location": "81828 Barnes Locks\nLake Troyview, AS 48196",
+        "description": "Task whether front certainly particular material blue will.",
+        "severity": "severe",
+        "involved_vehicles": 1,
+        "injuries": 2
+    },
+    {
+        "accident_id": "4ed35468-bd2f-4f3f-92da-c6ee9ad8aa66",
+        "date_time": "2020-06-08T04:47:17.280978",
+        "location": "86821 Aaron Canyon Apt. 857\nWest David, AZ 47968",
+        "description": "Former money surface coach across everything.",
+        "severity": "moderate",
+        "involved_vehicles": 3,
+        "injuries": 7
+    },
+    {
+        "accident_id": "b0537f17-4fa4-47b3-ad9e-722dfec9676f",
+        "date_time": "2022-03-14T21:38:40.538342",
+        "location": "9325 Peterson Ranch Apt. 428\nOwensstad, NV 41520",
+        "description": "Instead dark skill federal recently media.",
+        "severity": "minor",
+        "involved_vehicles": 3,
+        "injuries": 8
+    },
+    {
+        "accident_id": "2e07feaf-3a79-4200-8f46-0b2add2bbeb9",
+        "date_time": "2020-05-29T01:27:56.505761",
+        "location": "8246 Williams Valleys Suite 164\nSouth Stephenburgh, ME 83864",
+        "description": "Answer fish by stop.",
+        "severity": "severe",
+        "involved_vehicles": 3,
+        "injuries": 5
+    },
+    {
+        "accident_id": "73dd2b13-c8c9-4170-ae34-36bbb24549c6",
+        "date_time": "2021-12-30T05:34:23.979069",
+        "location": "04985 Johnson Well\nLake Davidberg, SC 68010",
+        "description": "Writer they option.",
+        "severity": "severe",
+        "involved_vehicles": 4,
+        "injuries": 3
+    },
+    {
+        "accident_id": "35191e74-db0d-4d45-a779-fbefa1736b07",
+        "date_time": "2021-08-19T07:00:53.061660",
+        "location": "7998 Dalton Landing Suite 271\nJonathanmouth, TX 71796",
+        "description": "Consider that goal involve employee might world.",
+        "severity": "severe",
+        "involved_vehicles": 3,
+        "injuries": 0
+    },
+    {
+        "accident_id": "08bdcda9-7535-4ad9-86a2-c5abcca7bafb",
+        "date_time": "2021-05-30T19:44:28.959082",
+        "location": "29620 Gomez Manors Apt. 187\nLake Christineton, MT 36660",
+        "description": "Issue recent ask when give.",
+        "severity": "moderate",
+        "involved_vehicles": 1,
+        "injuries": 7
+    },
+    {
+        "accident_id": "595086e3-1e5b-42db-8d0f-4f3343a9968e",
+        "date_time": "2024-08-01T10:42:58.775853",
+        "location": "176 Christine Expressway Suite 842\nSwansonport, AZ 94715",
+        "description": "Citizen letter and successful natural sea.",
+        "severity": "severe",
+        "involved_vehicles": 2,
+        "injuries": 3
+    },
+    {
+        "accident_id": "a4af374f-c2ab-442b-8a55-898a5b317bda",
+        "date_time": "2021-12-28T06:23:16.956634",
+        "location": "PSC 1861, Box 3543\nAPO AP 29643",
+        "description": "Everybody clear Congress local alone order.",
+        "severity": "minor",
+        "involved_vehicles": 4,
+        "injuries": 3
+    },
+    {
+        "accident_id": "5f2a9dfb-ae64-48ca-a5b3-0abb53aa27b8",
+        "date_time": "2020-12-14T11:09:07.892298",
+        "location": "943 Timothy Well Apt. 351\nWest Corey, LA 92754",
+        "description": "Professor program necessary student much Congress education.",
+        "severity": "moderate",
+        "involved_vehicles": 2,
+        "injuries": 6
+    },
+    {
+        "accident_id": "9924bdff-5522-4d01-bf29-1360bdf8ce5c",
+        "date_time": "2020-09-14T14:40:43.576829",
+        "location": "9702 Stephanie Island Apt. 358\nSandratown, VT 78089",
+        "description": "Receive baby speech.",
+        "severity": "minor",
+        "involved_vehicles": 5,
+        "injuries": 8
+    },
+    {
+        "accident_id": "94bb39bd-88f9-43ae-86cf-22f0d83f59fb",
+        "date_time": "2021-11-14T17:05:24.884434",
+        "location": "92633 Wendy Station\nWest Nicholasberg, TN 26389",
+        "description": "Relate product those focus actually example resource.",
+        "severity": "moderate",
+        "involved_vehicles": 1,
+        "injuries": 9
+    },
+    {
+        "accident_id": "7978ef39-c4a7-41d4-a653-107457f9292c",
+        "date_time": "2022-01-02T06:24:54.630287",
+        "location": "957 Lewis Keys Suite 184\nWest Anne, MO 82225",
+        "description": "Some end local physical.",
+        "severity": "severe",
+        "involved_vehicles": 2,
+        "injuries": 1
+    },
+    {
+        "accident_id": "0ef58a97-ce2f-42c5-a98e-369cdff34835",
+        "date_time": "2021-06-16T23:20:01.603754",
+        "location": "79497 Miller Gardens Suite 014\nSouth Bethton, ND 39088",
+        "description": "Market owner member office send.",
+        "severity": "moderate",
+        "involved_vehicles": 5,
+        "injuries": 3
+    },
+    {
+        "accident_id": "23cce811-ed69-4cdb-be8d-8ab5381f9486",
+        "date_time": "2024-02-14T22:39:45.316325",
+        "location": "35448 Hendricks Estates\nLake Samanthaview, AZ 87367",
+        "description": "If box manage.",
+        "severity": "severe",
+        "involved_vehicles": 2,
+        "injuries": 4
+    },
+    {
+        "accident_id": "1973ac19-b55d-4dc6-b73b-b2b21bc66151",
+        "date_time": "2023-03-21T14:20:58.250778",
+        "location": "USNS Thomas\nFPO AE 61282",
+        "description": "Over film moment rich.",
+        "severity": "severe",
+        "involved_vehicles": 3,
+        "injuries": 4
+    },
+    {
+        "accident_id": "4e49dbfb-48d8-4d92-9968-12275cfe52c7",
+        "date_time": "2023-07-10T10:02:37.784087",
+        "location": "677 Morgan Greens Apt. 289\nMorrisbury, WV 21457",
+        "description": "None each floor occur again minute inside.",
+        "severity": "moderate",
+        "involved_vehicles": 2,
+        "injuries": 3
+    },
+    {
+        "accident_id": "b3a490ed-31be-47b5-b156-02e8cb0ae616",
+        "date_time": "2023-04-24T14:35:19.359045",
+        "location": "70889 Jason Key\nKennedybury, LA 87430",
+        "description": "Security stay detail despite off sell democratic.",
+        "severity": "severe",
+        "involved_vehicles": 3,
+        "injuries": 8
+    },
+    {
+        "accident_id": "d9b96cf6-6db8-49c0-a66a-2ec668f114a2",
+        "date_time": "2020-03-21T21:00:46.508621",
+        "location": "PSC 4133, Box 5533\nAPO AA 87527",
+        "description": "Spring like stage all available financial.",
+        "severity": "severe",
+        "involved_vehicles": 3,
+        "injuries": 4
+    },
+    {
+        "accident_id": "0bd6d2bf-2fc5-4f1a-8622-8721da994863",
+        "date_time": "2023-01-29T19:25:45.352140",
+        "location": "3070 Dennis Ways Apt. 580\nLake Jamiestad, ME 78584",
+        "description": "Perform change arm later let animal.",
+        "severity": "severe",
+        "involved_vehicles": 4,
+        "injuries": 10
+    },
+    {
+        "accident_id": "ca6b6a63-a7c3-41b7-905f-0459fd8441db",
+        "date_time": "2024-06-17T23:13:25.753588",
+        "location": "755 Chan Cliff\nPort Martha, NC 02600",
+        "description": "Main party hold rise catch.",
+        "severity": "minor",
+        "involved_vehicles": 5,
+        "injuries": 8
+    },
+    {
+        "accident_id": "1f96a2b6-f292-4621-bb18-a61dc1d0d407",
+        "date_time": "2022-11-19T06:44:59.399770",
+        "location": "7281 Jaime Drive Suite 109\nRobinton, OH 68117",
+        "description": "Deal star style tell information machine.",
+        "severity": "severe",
+        "involved_vehicles": 2,
+        "injuries": 4
+    },
+    {
+        "accident_id": "fd10aa77-db69-4a25-9013-dd7a88b742de",
+        "date_time": "2020-06-03T01:23:59.987023",
+        "location": "Unit 5428 Box 1555\nDPO AA 85675",
+        "description": "Table try billion opportunity day.",
+        "severity": "moderate",
+        "involved_vehicles": 3,
+        "injuries": 5
+    },
+    {
+        "accident_id": "4a9ef12e-3d31-473f-9a81-c533d12813ff",
+        "date_time": "2024-01-14T04:53:58.006094",
+        "location": "0257 Gregory Canyon Apt. 822\nNorth Patrickfurt, MD 12751",
+        "description": "Make stop reveal spend responsibility foreign professional bank.",
+        "severity": "severe",
+        "involved_vehicles": 3,
+        "injuries": 6
+    },
+    {
+        "accident_id": "471d2aae-218b-4008-841a-e37464883aff",
+        "date_time": "2023-11-14T21:49:51.466136",
+        "location": "07886 Alyssa Court Suite 025\nLake Deborahport, MN 11716",
+        "description": "Sport compare least exist.",
+        "severity": "minor",
+        "involved_vehicles": 3,
+        "injuries": 4
+    },
+    {
+        "accident_id": "c1942ff2-bfac-4627-8181-5f232e79bbab",
+        "date_time": "2020-07-02T23:42:56.034902",
+        "location": "4717 Dana Motorway\nMartinburgh, ID 70589",
+        "description": "Pick seek decide particularly.",
+        "severity": "minor",
+        "involved_vehicles": 5,
+        "injuries": 5
+    },
+    {
+        "accident_id": "36b13171-6662-414a-a5fa-e5e510091094",
+        "date_time": "2023-04-15T09:42:23.718800",
+        "location": "2363 Brooks Brooks\nPetersmouth, WA 79991",
+        "description": "Far development send teach none sell serve.",
+        "severity": "minor",
+        "involved_vehicles": 3,
+        "injuries": 10
+    },
+    {
+        "accident_id": "2c8df1b4-8b61-45fd-ae89-b0a9811208ee",
+        "date_time": "2020-01-13T11:12:01.993178",
+        "location": "5292 Rocha Hill\nJustinchester, MP 12050",
+        "description": "Prove career it notice foot yourself.",
+        "severity": "moderate",
+        "involved_vehicles": 4,
+        "injuries": 7
+    },
+    {
+        "accident_id": "a8554050-f652-484a-9f86-a13e1b2fa6cb",
+        "date_time": "2022-03-11T08:43:00.065660",
+        "location": "72089 Tracy Forest Suite 747\nBrendafurt, TX 51266",
+        "description": "Play officer score be throw say.",
+        "severity": "minor",
+        "involved_vehicles": 3,
+        "injuries": 2
+    },
+    {
+        "accident_id": "4fa07a0e-6b41-4f77-bac5-e7b87153da88",
+        "date_time": "2022-03-08T23:54:09.756832",
+        "location": "USS Ramirez\nFPO AE 79283",
+        "description": "Fall main evidence wall.",
+        "severity": "moderate",
+        "involved_vehicles": 5,
+        "injuries": 9
+    },
+    {
+        "accident_id": "b6252995-f987-4d07-a146-7ae789347071",
+        "date_time": "2024-02-03T06:43:09.021998",
+        "location": "830 Forbes Knolls\nWest Margaretmouth, ME 16236",
+        "description": "Glass avoid whatever government.",
+        "severity": "moderate",
+        "involved_vehicles": 5,
+        "injuries": 0
+    },
+    {
+        "accident_id": "7761d235-ff85-4437-8c7e-1a5a2514eb33",
+        "date_time": "2021-04-24T04:40:43.771894",
+        "location": "355 Benjamin Port\nHowardstad, DE 91292",
+        "description": "Religious network training camera newspaper friend attack.",
+        "severity": "severe",
+        "involved_vehicles": 1,
+        "injuries": 1
+    },
+    {
+        "accident_id": "fee5bd2c-a0cd-4a94-88b9-71921fd6ecb8",
+        "date_time": "2020-02-09T15:04:21.728916",
+        "location": "14203 Robinson Estate\nSuarezton, GU 89967",
+        "description": "Sound section operation scientist appear commercial write.",
+        "severity": "severe",
+        "involved_vehicles": 1,
+        "injuries": 7
+    },
+    {
+        "accident_id": "c25812c8-b4f8-4b89-8d03-c6b8b7d10fe5",
+        "date_time": "2024-03-20T07:46:57.132898",
+        "location": "8241 Graves Road Suite 943\nPort Tammyview, DC 04620",
+        "description": "South style type knowledge base only woman.",
+        "severity": "moderate",
+        "involved_vehicles": 3,
+        "injuries": 7
+    },
+    {
+        "accident_id": "7892323d-4d4e-4390-b008-de4605b6697f",
+        "date_time": "2023-07-08T22:01:51.591848",
+        "location": "29785 Tony Greens\nNew Adamside, HI 67642",
+        "description": "Quickly audience media range whether.",
+        "severity": "moderate",
+        "involved_vehicles": 3,
+        "injuries": 8
+    },
+    {
+        "accident_id": "98860190-c4df-4402-8c48-8f7d9351e320",
+        "date_time": "2021-06-11T00:59:30.372712",
+        "location": "539 Duffy Viaduct Suite 691\nWolfebury, IA 16745",
+        "description": "Theory dinner event TV.",
+        "severity": "moderate",
+        "involved_vehicles": 2,
+        "injuries": 6
+    },
+    {
+        "accident_id": "d38f349e-c886-448f-87ba-163eb17cefbb",
+        "date_time": "2021-08-22T03:52:27.875759",
+        "location": "51993 Danielle Path Apt. 214\nVelezhaven, VT 15831",
+        "description": "Bed paper specific science.",
+        "severity": "minor",
+        "involved_vehicles": 3,
+        "injuries": 1
+    },
+    {
+        "accident_id": "3f4c634c-8673-4418-a848-2516ff3929d2",
+        "date_time": "2020-09-19T09:39:55.975540",
+        "location": "32639 Anderson Cliff Suite 155\nLake Alexander, MP 93165",
+        "description": "Nearly ground who cut myself within front perhaps.",
+        "severity": "minor",
+        "involved_vehicles": 4,
+        "injuries": 9
+    },
+    {
+        "accident_id": "9abdc8f6-dc02-42ea-a827-95e7336a8a78",
+        "date_time": "2024-03-24T06:56:31.245413",
+        "location": "718 Reyes Hollow\nMargaretville, VT 20557",
+        "description": "Down along necessary theory experience yes today.",
+        "severity": "moderate",
+        "involved_vehicles": 5,
+        "injuries": 9
+    },
+    {
+        "accident_id": "05773f1f-4c7c-4033-8eb8-a597a706c579",
+        "date_time": "2022-01-21T08:04:24.492849",
+        "location": "777 Jamie Spur\nGuerrerotown, NJ 02911",
+        "description": "Recent letter news more thank.",
+        "severity": "minor",
+        "involved_vehicles": 3,
+        "injuries": 9
+    },
+    {
+        "accident_id": "941789df-14db-43d8-b9aa-4e53f5e71e98",
+        "date_time": "2022-03-30T18:04:59.643008",
+        "location": "861 Ayala Street Apt. 228\nBishopside, VT 16734",
+        "description": "Matter career game get red dream.",
+        "severity": "minor",
+        "involved_vehicles": 1,
+        "injuries": 10
+    },
+    {
+        "accident_id": "bca54ef7-e2d8-4e56-8253-2825d8772b69",
+        "date_time": "2020-06-09T13:40:18.344421",
+        "location": "3588 Ingram Prairie Suite 461\nNorth Aimee, DC 16873",
+        "description": "Away manage by mouth PM hit.",
+        "severity": "severe",
+        "involved_vehicles": 1,
+        "injuries": 3
+    },
+    {
+        "accident_id": "bbf91f5b-ceed-4c57-9b41-d46f78e49e3d",
+        "date_time": "2020-11-14T14:23:09.204429",
+        "location": "081 Earl Greens\nWilliamstown, MH 70445",
+        "description": "Describe other common nearly religious play.",
+        "severity": "severe",
+        "involved_vehicles": 4,
+        "injuries": 4
+    },
+    {
+        "accident_id": "7c435f01-7ef3-4658-9d6e-c96e44b537fe",
+        "date_time": "2022-09-30T10:30:36.592839",
+        "location": "5123 Thompson Knolls Suite 801\nCatherinehaven, IL 04621",
+        "description": "Office person smile hair four arrive party.",
+        "severity": "minor",
+        "involved_vehicles": 4,
+        "injuries": 5
+    },
+    {
+        "accident_id": "8ca49c26-518f-4f0c-8cd4-c36c41d2aa14",
+        "date_time": "2023-09-27T10:50:25.108089",
+        "location": "20570 Duke Roads Suite 750\nLake Thomas, TN 51683",
+        "description": "Foot nature door him resource drop collection.",
+        "severity": "severe",
+        "involved_vehicles": 1,
+        "injuries": 5
+    },
+    {
+        "accident_id": "0477d9f0-5ef6-48d6-a984-3585d25ed1ed",
+        "date_time": "2020-10-17T02:03:34.751243",
+        "location": "2526 Caroline Bridge\nNorth Amanda, FL 08671",
+        "description": "Term commercial we attack community and.",
+        "severity": "moderate",
+        "involved_vehicles": 2,
+        "injuries": 0
+    },
+    {
+        "accident_id": "2d4e0660-4cd2-4595-acab-23ed2c3d4532",
+        "date_time": "2023-01-21T19:43:32.819384",
+        "location": "39082 Paul Turnpike Apt. 611\nNancytown, OK 25727",
+        "description": "My education beat themselves support sport hotel however.",
+        "severity": "moderate",
+        "involved_vehicles": 2,
+        "injuries": 7
+    },
+    {
+        "accident_id": "1c6d3f56-f007-4409-8a2c-7e2ecea3dfe4",
+        "date_time": "2022-07-03T21:29:26.168285",
+        "location": "PSC 4319, Box 2176\nAPO AP 54544",
+        "description": "Manage project teacher product mention.",
+        "severity": "severe",
+        "involved_vehicles": 5,
+        "injuries": 8
+    },
+    {
+        "accident_id": "456afeaa-09e9-4fbb-b6ec-bfa5bc2c3907",
+        "date_time": "2024-02-24T03:26:54.773727",
+        "location": "Unit 6089 Box 9971\nDPO AA 85699",
+        "description": "Great parent finally once against.",
+        "severity": "minor",
+        "involved_vehicles": 4,
+        "injuries": 4
+    },
+    {
+        "accident_id": "b04991bb-ad7c-49c5-8c94-791ee117aa51",
+        "date_time": "2023-01-22T22:16:43.228294",
+        "location": "769 Singh Street Suite 708\nNew Brendachester, ND 85041",
+        "description": "Car girl region thought summer.",
+        "severity": "severe",
+        "involved_vehicles": 1,
+        "injuries": 6
+    },
+    {
+        "accident_id": "35e7fa13-3ad1-424f-8541-2cc8d2e40a33",
+        "date_time": "2020-08-16T18:38:38.878018",
+        "location": "613 Cindy Valleys Suite 556\nCarloshaven, NV 01030",
+        "description": "Someone today sure support tree under.",
+        "severity": "minor",
+        "involved_vehicles": 5,
+        "injuries": 4
+    },
+    {
+        "accident_id": "dc416181-cde7-49da-b822-dc2b0339fdf7",
+        "date_time": "2023-10-03T04:20:30.109328",
+        "location": "9315 Tim Garden\nPort Janice, KY 30494",
+        "description": "Law too mission church tree.",
+        "severity": "severe",
+        "involved_vehicles": 2,
+        "injuries": 3
+    },
+    {
+        "accident_id": "e8a7f7ee-3aca-42b9-b4c7-097958a8a6a3",
+        "date_time": "2022-10-19T13:34:43.726536",
+        "location": "0431 Julie Cove Suite 751\nPort Josephbury, MI 93757",
+        "description": "Fill degree church call cut office.",
+        "severity": "minor",
+        "involved_vehicles": 4,
+        "injuries": 10
+    },
+    {
+        "accident_id": "58805c10-730d-453c-8b76-88add076b5f5",
+        "date_time": "2020-03-18T19:32:12.754255",
+        "location": "44248 Miller Camp\nNorth Johnland, LA 50096",
+        "description": "Produce democratic top past.",
+        "severity": "moderate",
+        "involved_vehicles": 2,
+        "injuries": 9
+    },
+    {
+        "accident_id": "6a4e2a02-55b5-461b-83ff-886fd1a14a22",
+        "date_time": "2021-07-01T17:24:56.662033",
+        "location": "6893 Jennifer Vista Apt. 188\nWilsonton, IL 47369",
+        "description": "Keep politics environment share.",
+        "severity": "severe",
+        "involved_vehicles": 3,
+        "injuries": 1
+    },
+    {
+        "accident_id": "a3e7c481-ba6b-42bf-91d8-cab2fb11062e",
+        "date_time": "2020-11-22T11:54:01.076546",
+        "location": "13613 Joshua Ranch Suite 525\nMelissaport, IL 38838",
+        "description": "Professional popular language including to result model.",
+        "severity": "severe",
+        "involved_vehicles": 1,
+        "injuries": 5
+    },
+    {
+        "accident_id": "d0c5a2a3-c828-46e9-9f1f-b530bf9ff965",
+        "date_time": "2021-12-27T10:21:59.864640",
+        "location": "743 Paul Bridge\nLake Lindsay, MP 06175",
+        "description": "Speech significant former half.",
+        "severity": "severe",
+        "involved_vehicles": 5,
+        "injuries": 6
+    },
+    {
+        "accident_id": "a91d4f37-6b26-47eb-bcae-26743de34111",
+        "date_time": "2021-11-29T04:22:37.306260",
+        "location": "65667 Nicole Road\nRichardhaven, NY 40228",
+        "description": "Then end source model employee.",
+        "severity": "minor",
+        "involved_vehicles": 3,
+        "injuries": 3
+    },
+    {
+        "accident_id": "b5008339-77f0-432f-a191-b44bda83caed",
+        "date_time": "2021-04-22T06:15:05.169101",
+        "location": "206 Adams Road Suite 369\nSouth Donnaport, NE 32733",
+        "description": "May term offer son.",
+        "severity": "severe",
+        "involved_vehicles": 5,
+        "injuries": 5
+    },
+    {
+        "accident_id": "8da92102-3ff2-4ff4-af0b-c5c67bd5b451",
+        "date_time": "2021-11-22T09:49:53.174846",
+        "location": "PSC 8392, Box 7372\nAPO AE 56334",
+        "description": "About mouth never free social scene especially.",
+        "severity": "minor",
+        "involved_vehicles": 5,
+        "injuries": 4
+    },
+    {
+        "accident_id": "35769099-e367-462a-b937-1c526ccc8199",
+        "date_time": "2024-01-20T04:37:35.821486",
+        "location": "7584 Jessica Garden Apt. 597\nKerrmouth, IN 01874",
+        "description": "Street bed position nice send.",
+        "severity": "minor",
+        "involved_vehicles": 5,
+        "injuries": 9
+    },
+    {
+        "accident_id": "069841fc-5413-4a3a-b279-1ff0067c02f3",
+        "date_time": "2021-08-05T06:43:11.814654",
+        "location": "8515 Mary Mount\nMartinville, MN 33544",
+        "description": "Movement question late leave fall prepare.",
+        "severity": "minor",
+        "involved_vehicles": 5,
+        "injuries": 2
+    },
+    {
+        "accident_id": "10ba9185-dc8a-4c85-bd32-a0245625a9f5",
+        "date_time": "2024-02-13T08:00:20.567773",
+        "location": "2300 Hunter Freeway Apt. 561\nDavidmouth, IN 02407",
+        "description": "Build science candidate to simple hour front.",
+        "severity": "moderate",
+        "involved_vehicles": 3,
+        "injuries": 8
+    },
+    {
+        "accident_id": "e1b7aee7-2575-4908-8e36-c488c9cb2511",
+        "date_time": "2021-10-23T18:29:26.442926",
+        "location": "92777 Ryan Burgs Suite 234\nWilliamport, AS 37519",
+        "description": "Age surface high read effort us rule.",
+        "severity": "severe",
+        "involved_vehicles": 5,
+        "injuries": 4
+    },
+    {
+        "accident_id": "7d42c425-cc73-4a96-b522-f656c82a1ea8",
+        "date_time": "2022-12-05T05:19:07.737277",
+        "location": "132 Estrada Summit Apt. 702\nKevinside, MD 22340",
+        "description": "You help far about.",
+        "severity": "severe",
+        "involved_vehicles": 4,
+        "injuries": 6
+    },
+    {
+        "accident_id": "31c97350-11a2-4941-98cd-a06552fd503a",
+        "date_time": "2023-06-20T22:05:43.344636",
+        "location": "979 Smith Branch Apt. 172\nJameston, VA 78355",
+        "description": "Design student person always deal.",
+        "severity": "severe",
+        "involved_vehicles": 5,
+        "injuries": 2
+    },
+    {
+        "accident_id": "bcf396da-1747-4bfa-b732-a9553d8226c1",
+        "date_time": "2022-10-26T18:24:05.169663",
+        "location": "3417 Oconnor Shoals Apt. 194\nMahoneymouth, TN 36635",
+        "description": "Hot soldier move near.",
+        "severity": "severe",
+        "involved_vehicles": 3,
+        "injuries": 1
+    },
+    {
+        "accident_id": "451af3b2-d48d-4ea1-a610-639e22cc4ce7",
+        "date_time": "2023-12-23T05:01:39.722480",
+        "location": "525 James Forks\nEast Ashleymouth, KY 44999",
+        "description": "Until account cover yeah reflect door experience.",
+        "severity": "moderate",
+        "involved_vehicles": 2,
+        "injuries": 9
+    },
+    {
+        "accident_id": "ae2d348e-826e-4bc2-a99e-8d330e3b8a09",
+        "date_time": "2023-03-08T15:40:17.954703",
+        "location": "869 Alexander Plaza\nPort Ryanfurt, MD 15271",
+        "description": "Join control I education item.",
+        "severity": "moderate",
+        "involved_vehicles": 2,
+        "injuries": 3
+    },
+    {
+        "accident_id": "41daa319-9239-4820-ab5b-3516fe02b062",
+        "date_time": "2022-02-05T14:06:43.974940",
+        "location": "8957 Acevedo Manor Suite 700\nLake Christopherville, VI 90042",
+        "description": "They east song sell war general cell.",
+        "severity": "minor",
+        "involved_vehicles": 1,
+        "injuries": 8
+    },
+    {
+        "accident_id": "6fc64a2c-1ae3-4633-b231-412956173d79",
+        "date_time": "2023-10-04T04:49:04.294171",
+        "location": "340 Vanessa Harbors\nNew Isaiahside, AZ 58532",
+        "description": "Get trouble how relationship want plan generation future.",
+        "severity": "moderate",
+        "involved_vehicles": 5,
+        "injuries": 7
+    },
+    {
+        "accident_id": "55ae97d1-43cd-4951-95ef-c97d2ae75c66",
+        "date_time": "2023-03-03T17:07:34.931318",
+        "location": "09759 James Plains Suite 120\nPort David, MO 73127",
+        "description": "Peace stay term continue.",
+        "severity": "moderate",
+        "involved_vehicles": 5,
+        "injuries": 6
+    },
+    {
+        "accident_id": "04584e94-2186-4b41-8ce5-c082e95ad161",
+        "date_time": "2021-03-25T22:14:15.632459",
+        "location": "9977 Callahan Gateway Suite 530\nWest Steven, NC 08541",
+        "description": "Protect agree wrong.",
+        "severity": "minor",
+        "involved_vehicles": 5,
+        "injuries": 7
+    },
+    {
+        "accident_id": "3ee36a9e-0219-4f92-9a13-2a335874b1be",
+        "date_time": "2020-01-21T00:53:29.482029",
+        "location": "Unit 1084 Box 1810\nDPO AA 15759",
+        "description": "City lot per would coach positive kitchen who.",
+        "severity": "moderate",
+        "involved_vehicles": 1,
+        "injuries": 6
+    },
+    {
+        "accident_id": "b607e18a-ae5a-42df-a7e5-8eaed69f57aa",
+        "date_time": "2021-11-15T09:25:56.567695",
+        "location": "510 Nunez Extensions\nLake Paigeside, UT 12858",
+        "description": "Under sure American think law art question.",
+        "severity": "moderate",
+        "involved_vehicles": 4,
+        "injuries": 3
+    },
+    {
+        "accident_id": "1a8e95d7-9f84-40f3-8a62-427a8d3fd674",
+        "date_time": "2022-05-14T09:13:21.483706",
+        "location": "14904 Stewart Lakes Suite 668\nChristensenborough, SD 57856",
+        "description": "Certainly first bit indicate eat.",
+        "severity": "severe",
+        "involved_vehicles": 2,
+        "injuries": 7
+    },
+    {
+        "accident_id": "b2a62f28-65ad-4e5d-89f6-2d4e75f0f3c2",
+        "date_time": "2020-05-19T05:06:30.912167",
+        "location": "758 Courtney Passage\nNew Abigail, MP 77158",
+        "description": "Present allow agreement we.",
+        "severity": "minor",
+        "involved_vehicles": 4,
+        "injuries": 1
+    },
+    {
+        "accident_id": "0b287e06-b09f-4307-bf60-5efce1c5d141",
+        "date_time": "2020-11-15T21:55:59.804303",
+        "location": "31925 Aaron Squares Suite 560\nPort Danielleburgh, MT 97306",
+        "description": "Bank land window industry left challenge such.",
+        "severity": "moderate",
+        "involved_vehicles": 2,
+        "injuries": 2
+    },
+    {
+        "accident_id": "e39a0852-b32f-42df-aefa-ebc260145112",
+        "date_time": "2023-11-08T12:18:13.611313",
+        "location": "10496 Dean Tunnel\nLouisside, MA 87429",
+        "description": "Wait give often tax information modern bag.",
+        "severity": "minor",
+        "involved_vehicles": 3,
+        "injuries": 6
+    },
+    {
+        "accident_id": "883ee68a-741a-4f6f-adfb-2d1ab222906d",
+        "date_time": "2023-02-26T02:24:15.520076",
+        "location": "PSC 7199, Box 5467\nAPO AA 41188",
+        "description": "Become successful factor vote deep.",
+        "severity": "minor",
+        "involved_vehicles": 5,
+        "injuries": 5
+    },
+    {
+        "accident_id": "7a5969b3-b36d-4aae-9345-f9d8c427d104",
+        "date_time": "2022-12-19T20:25:26.121881",
+        "location": "225 Aaron Row\nWest Michelle, FM 31313",
+        "description": "Time their help party cup must.",
+        "severity": "minor",
+        "involved_vehicles": 2,
+        "injuries": 1
+    },
+    {
+        "accident_id": "6e0c9ede-94e9-4582-84f3-d35ca3fcae47",
+        "date_time": "2021-01-08T21:32:46.879609",
+        "location": "4975 Santos Land\nJacksonville, VT 43205",
+        "description": "Range ability land human.",
+        "severity": "moderate",
+        "involved_vehicles": 2,
+        "injuries": 3
+    },
+    {
+        "accident_id": "ed7d0dea-7fb0-4513-9912-c2e25390f621",
+        "date_time": "2023-12-19T06:43:44.943502",
+        "location": "13436 Robert Passage Apt. 870\nMorrisville, LA 92173",
+        "description": "Word return any expect probably this writer eye.",
+        "severity": "moderate",
+        "involved_vehicles": 5,
+        "injuries": 6
+    },
+    {
+        "accident_id": "ba50a611-7b5e-4b18-bb0d-22e1db023818",
+        "date_time": "2024-01-30T12:50:01.400211",
+        "location": "9379 Kristen Shore Suite 610\nNorth Justintown, NV 92215",
+        "description": "East actually relate.",
+        "severity": "severe",
+        "involved_vehicles": 5,
+        "injuries": 8
+    },
+    {
+        "accident_id": "c03aaa83-e374-4b82-a6af-696e95fe0b35",
+        "date_time": "2024-02-17T17:28:35.507443",
+        "location": "4851 Veronica Stravenue\nKevinchester, TN 46226",
+        "description": "College we policy agency finish modern movie.",
+        "severity": "severe",
+        "involved_vehicles": 3,
+        "injuries": 10
+    },
+    {
+        "accident_id": "6cc2d1f5-6c89-4218-8a0e-166338bd4735",
+        "date_time": "2024-03-16T05:31:34.118377",
+        "location": "2576 Brian Mall\nNorth Amandaberg, OK 17810",
+        "description": "Of move together establish feeling wife whom movie.",
+        "severity": "minor",
+        "involved_vehicles": 2,
+        "injuries": 10
+    }
+]
